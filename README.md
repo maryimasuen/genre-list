@@ -295,3 +295,5 @@ The starting point for these categories originated from [Music Genres List](http
 - Vocal Pop
 - Enka
 - Sea Shanty
+
+###Lo-fi
